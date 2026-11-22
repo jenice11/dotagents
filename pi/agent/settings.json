@@ -6,12 +6,11 @@
     "npm:@quintinshaw/pi-dynamic-workflows",
     "npm:pi-cache-optimizer",
     "git:github.com/DarknessKiller/pi-omniroute-sync",
-    "npm:hashline-pi",
     "npm:pi-zentui",
     "git:github.com/DarknessKiller/pi-subagents-lite",
     "npm:@narumitw/pi-goal"
   ],
-  "lastChangelogVersion": "1.5.2",
+  "lastChangelogVersion": "1.6.0",
   "theme": "system",
   "defaultProvider": "cliproxyapi",
   "defaultModel": "deepseek-v4.1-flash",
@@ -24,7 +23,7 @@
   "hideThinkingBlock": true,
   "extensionChangelogVersions": {
     "{\"source\":\"npm:pi-mcp-adapter\",\"scope\":\"user\"}": "7.0.1",
-    "{\"source\":\"npm:pi-cache-optimizer\",\"scope\":\"user\"}": "2.10.6",
+    "{\"source\":\"npm:pi-cache-optimizer\",\"scope\":\"user\"}": "2.10.7",
     "{\"source\":\"npm:@narumitw/pi-goal\",\"scope\":\"user\"}": "0.55.3"
   }
 }
