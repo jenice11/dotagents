@@ -6,7 +6,6 @@
     "npm:@quintinshaw/pi-dynamic-workflows",
     "npm:pi-cache-optimizer",
     "git:github.com/DarknessKiller/pi-omniroute-sync",
-    "npm:hashline-pi",
     "npm:pi-zentui",
     "git:github.com/DarknessKiller/pi-subagents-lite",
     "npm:@narumitw/pi-goal"
