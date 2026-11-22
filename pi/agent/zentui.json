@@ -159,7 +159,7 @@
     },
     "thinkingSteps": {
       "enabled": true,
-      "mode": "tree"
+      "mode": "rail"
     },
     "workingLine": {
       "enabled": true,
